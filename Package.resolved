@@ -1,0 +1,24 @@
+{
+  "originHash" : "d00503be88241cea48d33fd42f131ea1cd4dae3c7e135c813024dfaeb34b5621",
+  "pins" : [
+    {
+      "identity" : "fullstory-swift-package-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fullstorydev/fullstory-swift-package-ios",
+      "state" : {
+        "revision" : "bf1987d0d911fb0c7eebedf127bfa78252f5b2b7",
+        "version" : "1.63.2"
+      }
+    },
+    {
+      "identity" : "survicate-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Survicate/survicate-ios-sdk",
+      "state" : {
+        "revision" : "3e988a2283de1ee00b8fffbb1f75566a20101e4a",
+        "version" : "6.4.0"
+      }
+    }
+  ],
+  "version" : 3
+}
