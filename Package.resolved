@@ -1,5 +1,5 @@
 {
-  "originHash" : "d00503be88241cea48d33fd42f131ea1cd4dae3c7e135c813024dfaeb34b5621",
+  "originHash" : "f7bb7f140ce11dba2d2a93d832c66fcae1f7b9e34b4c6b27784e3bd82bf10d8e",
   "pins" : [
     {
       "identity" : "fullstory-swift-package-ios",
@@ -15,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Survicate/survicate-ios-sdk",
       "state" : {
-        "revision" : "3e988a2283de1ee00b8fffbb1f75566a20101e4a",
-        "version" : "6.4.0"
+        "revision" : "b3d93d13b027fbc3a5c4864fab4ab7ecc9685703",
+        "version" : "7.0.0"
       }
     }
   ],
