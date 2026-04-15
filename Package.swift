@@ -12,7 +12,7 @@ let package = Package(
             targets: ["survicate-fullstory-integration"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Survicate/survicate-ios-sdk", from: "7.0.0"),
+        .package(url: "https://github.com/Survicate/survicate-ios-sdk", from: "8.0.0"),
         .package(url: "https://github.com/fullstorydev/fullstory-swift-package-ios", from: "1.60.0"),
     ],
     targets: [
