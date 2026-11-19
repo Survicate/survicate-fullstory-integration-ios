@@ -11,7 +11,7 @@ To integrate Survicate FullStory integration into your Xcode project using Swift
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/Survicate/survicate-fullstory-integration-ios", from: "1.0.0")
+    .package(url: "https://github.com/Survicate/survicate-fullstory-integration-ios", from: "1.6.0")
 ]
 ```
 

@@ -5,6 +5,7 @@ import PackageDescription
 
 let package = Package(
     name: "survicate-fullstory-integration",
+    platforms: [.iOS(.v15)],
     products: [
         // Products define the executables and libraries a package produces, making them visible to other packages.
         .library(
@@ -12,7 +13,7 @@ let package = Package(
             targets: ["survicate-fullstory-integration"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Survicate/survicate-ios-sdk", from: "9.0.0"),
+        .package(url: "https://github.com/Survicate/survicate-ios-sdk", from: "10.0.0"),
         .package(url: "https://github.com/fullstorydev/fullstory-swift-package-ios", from: "1.60.0"),
     ],
     targets: [
